@@ -37,7 +37,7 @@ platform: Steam
 consumed_date: 2026-02-01 ~ 2026-02-16
 review_date: 2026-02-16
 recommend: yes
-title: 명말
+title: 明末：渊虚之羽
 ---
 쟁점만 주관적으로 다루겠습니다.
 
