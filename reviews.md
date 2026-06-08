@@ -30,6 +30,7 @@ title: Clair Obscur: Expedition 33
 
 ===
 
+
 ---
 id: WUCHANG: Fallen Feathers
 platform: Steam
@@ -75,5 +76,3 @@ RTX 3090. 4K fps 60정도 뽑습니다.
 영어와 일어는 옛스러운 느낌을 그럭저럭 잘 살렸습니다. 엘든링 수준은 아니지만 그래도 귀가 즐겁습니다.
 반면 한글은 현대어가 많았습니다.
 이해는 쉬웠지만 분위기는 좀 깼어요.
-
-===
